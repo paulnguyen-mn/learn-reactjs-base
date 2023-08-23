@@ -12,7 +12,7 @@
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
-    "axios": "^0.20.0",
+    "axios": "^1.4.0",
     "classnames": "^2.2.6",
     "dompurify": "^2.2.7",
     "notistack": "^1.0.1",
@@ -22,7 +22,7 @@
     "react-hook-form": "^6.15.5",
     "react-redux": "^7.2.1",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "3.4.3",
+    "react-scripts": "^5.0.1",
     "sass": "^1.63.4",
     "styled-components": "^5.2.0",
     "yup": "^0.29.3"
